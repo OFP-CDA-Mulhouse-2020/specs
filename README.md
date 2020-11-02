@@ -1,7 +1,7 @@
 # Site de Paris sportifs
 ## Module 1 : conception graphique et logique (9 jours)
 
-- Vous utiliserez un Adobe XD pour définir les guidelines de l’interface graphique.
+- Vous utiliserez un logiciel type Adobe XD/Balsamiq Mockups pour définir les guidelines de l’interface graphique.
 - Vous utiliserez bootstrap 4 ou 5-alpha(a vos risques et périls). Dans un second temps il sera possible mais pas obligatoire de créer une maquette HTML. 
 - La personnalisation de bootstrap sera faite ultérieurement. **Le projet de départ ne devra donc pas contenir de CSS spécifiques.**
 - Vous modéliserez le diagramme de classes de l'application qui devra répondre aux problématiques métier suivantes:
